@@ -1,0 +1,28 @@
+
+--- files\psi2_G= 0.171000D+04.dat	max=0.0535201	R=1710.0
+
+--- files\psi2_G= 0.171500D+04.dat	max=0.0523716	R=1715.0
+
+--- files\psi2_G= 0.172000D+04.dat	max=0.0533997	R=1720.0
+
+--- files\psi2_G= 0.172500D+04.dat	max=0.0541989	R=1725.0
+
+--- files\psi2_G= 0.173000D+04.dat	max=0.0539402	R=1730.0
+
+--- files\psi2_G= 0.174000D+04.dat	max=0.0562316	R=1740.0
+
+--- files\psi2_G= 0.175000D+04.dat	max=0.0635467	R=1750.0
+
+--- files\psi_G= 0.171000D+04.dat	max=0.0393524	R=1710.0
+
+--- files\psi_G= 0.171500D+04.dat	max=0.038987	R=1715.0
+
+--- files\psi_G= 0.172000D+04.dat	max=0.0399773	R=1720.0
+
+--- files\psi_G= 0.172500D+04.dat	max=0.0428609	R=1725.0
+
+--- files\psi_G= 0.173000D+04.dat	max=0.0473881	R=1730.0
+
+--- files\psi_G= 0.174000D+04.dat	max=0.0559362	R=1740.0
+
+--- files\psi_G= 0.175000D+04.dat	max=0.0631741	R=1750.0
